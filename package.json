@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexz1124/FizzBuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexz1124/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/alexz1124/FizzBuzz#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
